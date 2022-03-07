@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P1_FINAL_TELLO", "P1_FINAL_TELLO\P1_FINAL_TELLO.vcxproj", "{96A386DE-A04B-4A1E-9B02-7B793E5A3668}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96A386DE-A04B-4A1E-9B02-7B793E5A3668}.Debug|x64.ActiveCfg = Debug|x64
+		{96A386DE-A04B-4A1E-9B02-7B793E5A3668}.Debug|x64.Build.0 = Debug|x64
+		{96A386DE-A04B-4A1E-9B02-7B793E5A3668}.Debug|x86.ActiveCfg = Debug|Win32
+		{96A386DE-A04B-4A1E-9B02-7B793E5A3668}.Debug|x86.Build.0 = Debug|Win32
+		{96A386DE-A04B-4A1E-9B02-7B793E5A3668}.Release|x64.ActiveCfg = Release|x64
+		{96A386DE-A04B-4A1E-9B02-7B793E5A3668}.Release|x64.Build.0 = Release|x64
+		{96A386DE-A04B-4A1E-9B02-7B793E5A3668}.Release|x86.ActiveCfg = Release|Win32
+		{96A386DE-A04B-4A1E-9B02-7B793E5A3668}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BA797F6-A7F0-4B77-9889-EF3DF5E213FC}
+	EndGlobalSection
+EndGlobal
